@@ -1,14 +1,14 @@
-**Project - Analyze International Debt Statistics**
+#Project - Analyze International Debt Statistics
 
-SQL project in Jupyter notebook for analyzing international debt statistics using data from world bank on DataCamp
++ SQL project in Jupyter notebook for analyzing international debt statistics using data from world bank on DataCamp
 
-What is the average debt across countries?
+      +  What is the average debt across countries?
 
-What is the maximum debt indicator?
+      +  What is the maximum debt indicator?
 
-Which country has the highest debt in which debt indicator
+      +  Which country has the highest debt in which debt indicator
 
-etc.
+      +  etc.
 
 <!--
 **tejasdevar/TejasDevar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
