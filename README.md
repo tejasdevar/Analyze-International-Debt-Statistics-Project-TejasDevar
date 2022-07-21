@@ -1,5 +1,11 @@
 ### Hi there 👋
-### I'm Tejas Devar student of VNIT Nagpur Mechanical Branch.
+Project - Analyze International Debt Statistics
+PostgreSQL project in Jupyter notebook for analyzing international debt statistics using data from world bank.
+
+What is the average debt across countries?
+What is the maximum debt indicator?
+Which country has the highest debt in which debt indicator
+etc.
 
 <!--
 **tejasdevar/TejasDevar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
