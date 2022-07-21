@@ -1,4 +1,4 @@
-#Project - Analyze International Debt Statistics
+**Project - Analyze International Debt Statistics**
 
 + SQL project in Jupyter notebook for analyzing international debt statistics using data from world bank on DataCamp
 
