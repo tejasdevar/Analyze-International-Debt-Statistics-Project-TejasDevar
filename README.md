@@ -1,10 +1,13 @@
-### Hi there 👋
-Project - Analyze International Debt Statistics
-PostgreSQL project in Jupyter notebook for analyzing international debt statistics using data from world bank.
+
+###Project - Analyze International Debt Statistics
+SQL project in Jupyter notebook for analyzing international debt statistics using data from world bank on ###DataCamp
 
 What is the average debt across countries?
+
 What is the maximum debt indicator?
+
 Which country has the highest debt in which debt indicator
+
 etc.
 
 <!--
